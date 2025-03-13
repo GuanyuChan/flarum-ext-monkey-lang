@@ -5,18 +5,18 @@
 flarum-nicknames:
   admin:
     permissions:
-      edit_own_nickname_label: 更改个人昵称
+      edit_own_nickname_label: 🐒🐒🐒🐒🐒
     settings:
-      max_label: 最大昵称长度
-      min_label: 最小昵称长度
-      random_username_help: 注册时显示必填「昵称」输入框，隐藏「用户名」输入框。由系统自动生成随机数字组成的用户名。此设置仅在开启「注册时允许设置昵称」时有效。
-      random_username_label: 随机用户名
-      regex_label: 验证用正则表达式
-      set_on_registration_label: 注册时允许设置昵称
-      unique_label: 昵称唯一
-    wrong_driver: '您必须在 <a><strong>常规设置</strong></a> 中将「昵称」设置为外显名称，此扩展才会起作用。'
+      max_label: 🐒🐒🐒🐒🐒
+      min_label: 🐒🐒🐒🐒🐒
+      random_username_help: 🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒
+      random_username_label: 🐒🐒🐒🐒🐒
+      regex_label: 🐒🐒🐒🐒🐒
+      set_on_registration_label: 🐒🐒🐒🐒🐒
+      unique_label: 🐒🐒🐒🐒🐒
+    wrong_driver: '🐒🐒🐒🐒🐒 <a><strong>🐒🐒🐒🐒🐒</strong></a> 🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒'
   api:
-    invalid_nickname_message: 昵称非法。请联系论坛管理员获取昵称规则。
+    invalid_nickname_message: 🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒
   forum:
     change_nickname:
       submit_button: '=> core.ref.save_changes'
@@ -29,5 +29,5 @@ flarum-nicknames:
     sign_up:
       nickname_placeholder: '=> flarum-nicknames.ref.nickname'
   ref:
-    change_nickname: 更改昵称
-    nickname: 昵称
+    change_nickname: 🐒🐒🐒🐒🐒
+    nickname: 🐒🐒

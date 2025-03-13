@@ -8,90 +8,90 @@ flarum-tags:
       tags_label: '=> flarum-tags.ref.tags'
     edit_tag:
       color_label: '=> core.ref.color'
-      delete_tag_button: 删除标签
-      delete_tag_confirmation: 确定要删除此标签？此操作不会删除标签下的主题帖。
-      description_label: 描述
-      hide_label: 从“全部主题”中隐藏
+      delete_tag_button: 🐒🐒🐒🐒🐒
+      delete_tag_confirmation: 🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒
+      description_label: 🐒🐒🐒🐒🐒
+      hide_label: 🐒🐒🐒🐒🐒
       icon_label: '=> core.ref.icon'
       icon_text: '=> core.ref.icon_text'
       name_label: '=> flarum-tags.ref.name'
       name_placeholder: '=> flarum-tags.ref.name'
-      slug_label: 英文名称（Slug）
+      slug_label: 🐒🐒🐒🐒🐒
       submit_button: '=> core.ref.save_changes'
-      title: 新建标签
+      title: 🐒🐒🐒🐒🐒
     nav:
-      tags_button: 节点标签
-      tags_text: 管理论坛标签列表。
+      tags_button: 🐒🐒🐒🐒🐒
+      tags_text: 🐒🐒🐒🐒🐒
     permissions:
-      allow_edit_tags_label: 允许编辑标签
-      bypass_tag_counts_label: 不受标签数量限制
-      restrict_by_tag_heading: 按标签分类
-      tag_discussions_label: 更改标签
+      allow_edit_tags_label: 🐒🐒🐒🐒🐒
+      bypass_tag_counts_label: 🐒🐒🐒🐒🐒
+      restrict_by_tag_heading: 🐒🐒🐒🐒🐒
+      tag_discussions_label: 🐒🐒🐒🐒🐒
     settings:
       button_text: '=> flarum-tags.ref.choose_tags'
     tag_settings:
-      range_separator_text: ' 至 '
-      required_primary_heading: 主标签数量限制
-      required_primary_text: 设置每个主题帖需添加的主标签数量。
-      required_secondary_heading: 次标签数量限制
-      required_secondary_text: 设置每个主题帖需添加的次标签数量。
-      title: 标签设置
+      range_separator_text: ' 🐒 '
+      required_primary_heading: 🐒🐒🐒🐒🐒
+      required_primary_text: 🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒
+      required_secondary_heading: 🐒🐒🐒🐒🐒
+      required_secondary_text: 🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒
+      title: 🐒🐒🐒🐒🐒
     tags:
-      about_tags_text: 使用标签对主题帖分类。主标签类似于传统论坛的板块，可以分成两级。次标签无层级无顺序，可作为次板块。鼠标拖动标签即可排序或调整层级位置。
-      create_primary_tag_button: 新建主标签
-      create_secondary_tag_button: 新建次标签
-      edit_tag_label: '编辑标签 {tag}'
-      primary_heading: 主标签
-      secondary_heading: 次标签
-      settings_heading: 设置
+      about_tags_text: 🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒
+      create_primary_tag_button: 🐒🐒🐒🐒🐒
+      create_secondary_tag_button: 🐒🐒🐒🐒🐒
+      edit_tag_label: '🐒🐒🐒🐒🐒 {tag}'
+      primary_heading: 🐒🐒🐒🐒🐒
+      secondary_heading: 🐒🐒🐒🐒🐒
+      settings_heading: 🐒🐒🐒🐒🐒
   forum:
     all_tags:
-      meta_description_text: 全部标签
+      meta_description_text: 🐒🐒🐒🐒🐒
       meta_title_text: '=> flarum-tags.ref.tags'
     choose_tags:
-      bypass_requirements: 跳过标签选择
+      bypass_requirements: 🐒🐒🐒🐒🐒
       choose_primary_placeholder: '{count, plural, one {选择主标签    } other {最多选择 # 个主标签}}'
       choose_secondary_placeholder: '{count, plural, one {选择一个次标签} other {最多选择 # 个次标签}}'
-      edit_title: '更改「{title}」的节点标签'
+      edit_title: '🐒🐒🐒🐒🐒 {title} 🐒🐒🐒🐒🐒'
       submit_button: '=> core.ref.okay'
-      title: 添加标签
+      title: 🐒🐒🐒🐒🐒
     composer_discussion:
       choose_tags_link: '=> flarum-tags.ref.choose_tags'
     discussion_controls:
-      edit_tags_button: 编辑标签
+      edit_tags_button: 🐒🐒🐒🐒🐒
     header:
-      back_to_tags_tooltip: 返回标签列表
+      back_to_tags_tooltip: 🐒🐒🐒🐒🐒
     index:
-      more_link: 更多标签...
+      more_link: 🐒🐒🐒🐒🐒...
       tags_link: '=> flarum-tags.ref.tags'
-      untagged_link: 移除标签
+      untagged_link: 🐒🐒🐒🐒🐒
     post_stream:
-      added_and_removed_tags_text: '{username} 于 {time} 添加 {tagsAdded}，并移除 {tagsRemoved}。'
-      added_tags_text: '{username} 于 {time} 添加 {tagsAdded}'
-      removed_tags_text: '{username} 于 {time} 移除 {tagsRemoved}'
-      tags_text: '{tags} 标签'
+      added_and_removed_tags_text: '{username} 🐒 {time} 🐒🐒 {tagsAdded} 🐒🐒🐒 {tagsRemoved}。'
+      added_tags_text: '{username} 🐒 {time} 🐒🐒 {tagsAdded}'
+      removed_tags_text: '{username} 🐒 {time} 🐒🐒 {tagsRemoved}'
+      tags_text: '{tags} 🐒🐒🐒🐒🐒'
     tag:
-      meta_description_text: '{tag} 标签下的所有主题'
+      meta_description_text: '{tag} 🐒🐒🐒🐒🐒'
   lib:
-    deleted_tag_text: 已删除
+    deleted_tag_text: 🐒🐒🐒🐒🐒
     tag_selection_modal:
-      bypass_requirements: 忽略标签选择
+      bypass_requirements: 🐒🐒🐒🐒🐒
       choose_primary_placeholder: '{count, plural, one {请选择一个主标签} other {请选择 # 个主标签}}'
       choose_secondary_placeholder: '=> flarum-tags.ref.choose_tags_placeholder'
       choose_tags_placeholder: '=> flarum-tags.ref.choose_tags_placeholder'
       submit_button: '=> core.ref.okay'
       title: '=> flarum-tags.ref.choose_tags'
   ref:
-    choose_tags: 选择标签
+    choose_tags: 🐒🐒🐒🐒🐒
     choose_tags_placeholder: '{count, plural, one {请再选择一个标签} other {请再选择 # 个标签}}'
-    name: 标签名称
-    tags: 标签
+    name: 🐒🐒🐒🐒🐒
+    tags: 🐒🐒🐒🐒🐒
   validation:
     attributes:
-      color: 颜色
-      description: 描述
-      is_hidden: 隐藏
-      name: 名称
-      slug: 英文名
+      color: 🐒🐒🐒🐒🐒
+      description: 🐒🐒🐒🐒🐒
+      is_hidden: 🐒🐒🐒🐒🐒
+      name: 🐒🐒🐒🐒🐒
+      slug: 🐒🐒🐒🐒🐒
       tag_count_primary: '=> validation.attributes.tag_count_primary'
       tag_count_secondary: '=> validation.attributes.tag_count_secondary'

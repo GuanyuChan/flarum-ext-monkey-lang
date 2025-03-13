@@ -5,9 +5,9 @@
 flarum-auth-facebook:
   admin:
     facebook_settings:
-      app_id_label: 'App ID'
-      app_secret_label: 'App Secret'
-      title: 'Facebook 登录设置'
+      app_id_label: '🐒🐒🐒🐒🐒'
+      app_secret_label: '🐒🐒🐒🐒🐒'
+      title: '🐒🐒🐒🐒🐒'
   forum:
     log_in:
-      with_facebook_button: 'Facebook 账号登录'
+      with_facebook_button: '🐒🐒🐒🐒🐒'

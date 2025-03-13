@@ -5,11 +5,11 @@
 flarum-pusher:
   admin:
     pusher_settings:
-      app_cluster_label: 'Cluster 集群'
-      app_id_label: 'App ID'
-      app_key_label: 'App Key'
-      app_secret_label: 'App Secret'
-      title: 'Pusher 设置'
+      app_cluster_label: 'C🐒🐒🐒🐒🐒 🐒🐒🐒🐒🐒'
+      app_id_label: '🐒🐒🐒🐒🐒'
+      app_key_label: '🐒🐒🐒🐒🐒'
+      app_secret_label: '🐒🐒🐒🐒🐒'
+      title: '🐒🐒🐒🐒🐒 🐒🐒🐒🐒🐒'
   forum:
     discussion_list:
-      show_updates_text: '{count, plural, one {有 # 条新内容} other {有 # 条新内容}}，点击查看'
+      show_updates_text: '{count, plural, one {有 # 条新内容} other {有 # 条新内容}}，🐒🐒🐒🐒🐒'

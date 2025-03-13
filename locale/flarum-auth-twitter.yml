@@ -5,9 +5,9 @@
 flarum-auth-twitter:
   admin:
     twitter_settings:
-      api_key_label: 'API Key'
-      api_secret_label: 'API Secret'
-      title: 'Twitter 登录设置'
+      api_key_label: '🐒🐒🐒🐒🐒'
+      api_secret_label: '🐒🐒🐒🐒🐒t'
+      title: '🐒🐒🐒🐒🐒'
   forum:
     log_in:
-      with_twitter_button: 'Twitter 账号登录'
+      with_twitter_button: '🐒🐒🐒🐒🐒'

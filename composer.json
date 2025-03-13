@@ -5,48 +5,33 @@
     "flarum",
     "locale",
     "extension",
-    "Chinsese",
-    "中文",
-    "简体中文"
+    "MonkeyLanguage",
+    "猴子语",
+    "猴子语"
   ],
   "type": "flarum-extension",
   "license": "MIT",
   "authors": [
     {
-      "name": "Flarum Fans",
-      "email": "littlegoldenjin@gmail.com",
-      "homepage": "https://github.com/FFans"
+      "name": "LeonMMcoset",
+      "email": "LeonMMcoset@outlook.com",
+      "homepage": "https://github.com/LeonMMcoset"
     }
   ],
   "support": {
-    "source": "https://github.com/flarum-lang/chinese-simplified",
-    "issues": "https://github.com/flarum-lang/chinese-simplified/issues",
-    "forum": "https://discuss.flarum.org/d/22690"
+    "source": "https://github.com/Leonmmcoset/flarum-ext-monkey-lang"
   },
   "require": {
     "flarum/core": "^1.0.0"
   },
-  "replace": {
-    "littlegolden/flarum-lang-simplified-chinese": "*",
-    "ffans/lang-simplified-chinese": "*"
-  },
   "extra": {
     "flarum-extension": {
-      "title": "简体中文",
-      "category": "language",
-      "icon": {
-        "image": "icon.svg",
-        "backgroundColor": "#fff",
-        "backgroundSize": "cover",
-        "backgroundPosition": "center"
-      }
-    },
-    "extiverse": {
-      "discuss": "https://discuss.flarum.org/d/22690"
+      "title": "猴子语",
+      "category": "language"
     },
     "flarum-locale": {
-      "code": "zh-Hans",
-      "title": "简体中文"
+      "code": "monkey",
+      "title": "🐒🐒🐒🐒🐒"
     }
   }
 }

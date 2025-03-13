@@ -5,9 +5,9 @@
 flarum-auth-github:
   admin:
     github_settings:
-      client_id_label: 'Client ID'
-      client_secret_label: 'Client Secret'
-      title: 'GitHub 登录设置'
+      client_id_label: '🐒🐒🐒🐒🐒'
+      client_secret_label: '🐒🐒🐒🐒🐒'
+      title: '🐒🐒🐒🐒🐒'
   forum:
     log_in:
-      with_github_button: 'GitHub 账号登录'
+      with_github_button: '🐒🐒🐒🐒🐒'

@@ -5,20 +5,20 @@
 flarum-mentions:
   admin:
     permissions:
-      mention_groups_label: 提及组群
+      mention_groups_label: 🐒🐒🐒🐒🐒
     settings:
-      allow_username_format_label: 允许@用户名
+      allow_username_format_label: 🐒🐒🐒🐒🐒
       allow_username_format_text: "Flarum 默认提及格式是「@外显昵称#ID」，默认外显昵称为用户名。\n启用 Nicknames 扩展程序后，你可能会将外显昵称更改为 nickname。开启此设置可允许用户同时使用旧格式「@用户名」，不过在保存时系统会自动转换成新格式。\n"
   email:
     group_mentioned:
-      body: "嘿 {recipient_display_name}！\n\n{mentioner_display_name} 在 {title} 中提到了您所属的组群。\n\n{url}\n\n---\n\n{content}\n"
-      subject: '{mentioner_display_name} 在 {title} 中提到了您所属的组群'
+      body: "嘿 {recipient_display_name}！\n\n{mentioner_display_name} 在 {title} 🐒🐒🐒🐒🐒。\n\n{url}\n\n---\n\n{content}\n"
+      subject: '{mentioner_display_name} 在 {title} 🐒🐒🐒🐒🐒'
     post_mentioned:
-      body: "{recipient_display_name}，您好！\n\n{replier_display_name} 回复了您在《{title}》(#{post_number}) 发表的内容：\n\n{url}\n\n---\n\n{content}\n"
-      subject: '{replier_display_name} 回复了您【{title}】'
+      body: "{recipient_display_name}，🐒🐒🐒🐒🐒\n\n{replier_display_name} 回复了您在《{title}》(#{post_number}) 发表的内容：\n\n{url}\n\n---\n\n{content}\n"
+      subject: '{replier_display_name} 🐒🐒🐒🐒🐒【{title}】'
     user_mentioned:
-      body: "{recipient_display_name}，您好！\n\n{mentioner_display_name} 在《{title}》提及了您：\n\n{url}\n\n---\n\n{content}\n"
-      subject: '{mentioner_display_name} 提及了您【{title}】'
+      body: "{recipient_display_name}，🐒🐒🐒🐒🐒！\n\n{mentioner_display_name} 在《{title}》提及了您：\n\n{url}\n\n---\n\n{content}\n"
+      subject: '{mentioner_display_name} 🐒🐒🐒🐒🐒【{title}】'
   forum:
     composer:
       mention_tooltip: 提及用户、组或楼层

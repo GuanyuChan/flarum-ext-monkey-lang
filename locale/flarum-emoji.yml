@@ -5,5 +5,5 @@
 flarum-emoji:
   forum:
     composer:
-      emoji_tooltip: 表情
-      type_to_search_text: '搜索 Emoji 表情'
+      emoji_tooltip: 🐒🐒🐒🐒🐒
+      type_to_search_text: '🐒🐒🐒🐒🐒'

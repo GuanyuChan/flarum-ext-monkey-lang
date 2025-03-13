@@ -5,25 +5,25 @@
 flarum-likes:
   admin:
     permissions:
-      like_posts_label: 点赞
+      like_posts_label: 🐒🐒🐒🐒🐒
     settings:
-      like_own_posts_help: 启用此项，以允许用户点赞自己的帖子。
-      like_own_posts_label: 允许自赞
+      like_own_posts_help: 🐒🐒🐒🐒🐒
+      like_own_posts_label: 🐒🐒🐒🐒🐒
   forum:
     notifications:
       others_text: '=> core.ref.some_others'
-      post_liked_text: '{username} 赞了你'
+      post_liked_text: '{username} 🐒🐒🐒🐒🐒'
     post:
-      like_link: 赞
-      liked_by_self_text: '{users} 觉得很赞'
-      liked_by_text: '{users} 觉得很赞'
+      like_link: 🐒
+      liked_by_self_text: '{users} 🐒🐒🐒🐒🐒'
+      liked_by_text: '{users} 🐒🐒🐒🐒🐒'
       others_link: '=> core.ref.some_others'
-      unlike_link: 取消赞
+      unlike_link: 🐒🐒🐒🐒🐒
       you_text: '=> core.ref.you'
     post_likes:
       load_more_button: '=> core.ref.load_more'
-      title: 点赞的用户
+      title: 🐒🐒🐒🐒🐒
     settings:
-      notify_post_liked_label: 有人赞我
+      notify_post_liked_label: 🐒🐒🐒🐒🐒
     user:
-      likes_link: 赞
+      likes_link: 🐒

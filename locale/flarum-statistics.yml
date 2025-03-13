@@ -5,31 +5,31 @@
 flarum-statistics:
   admin:
     date_selection_modal:
-      description: "统计自定义时间内的论坛数据。\n数据分析耗时会根据单位时间内论坛的活跃度有所浮动。\n"
-      end_date: 结束日期（含）
+      description: "🐒🐒🐒🐒🐒\n🐒🐒🐒🐒🐒\n"
+      end_date: 🐒🐒🐒🐒🐒
       errors:
-        end_before_start: 结束日期必须晚于开始日期。
-      start_date: 开始日期（含）
-      submit_button: 确定
-      title: 自定义日期范围
+        end_before_start: 🐒🐒🐒🐒🐒
+      start_date: 🐒🐒🐒🐒🐒
+      submit_button: 🐒🐒🐒🐒🐒
+      title: 🐒🐒🐒🐒🐒
     statistics:
-      active_users_text: '{count} 活跃用户'
-      current_period: 当前周期
-      custom_label: 自定义范围……
-      custom_label_specified: '{fromDate} 至 {toDate}'
+      active_users_text: '{count} 🐒🐒🐒🐒🐒'
+      current_period: 🐒🐒🐒🐒🐒
+      custom_label: 🐒🐒🐒🐒🐒
+      custom_label_specified: '{fromDate} 🐒 {toDate}'
       discussions_heading: '=> core.ref.discussions'
-      export_chart_button: '导出 SVG 图片'
-      last_12_months_label: 过去一年
-      last_28_days_label: 过去二十八天
-      last_7_days_label: 过去一周
+      export_chart_button: '🐒🐒🐒🐒🐒'
+      last_12_months_label: 🐒🐒🐒🐒🐒
+      last_28_days_label: 🐒🐒🐒🐒🐒
+      last_7_days_label: 🐒🐒🐒🐒🐒
       loading: '=> core.ref.loading'
-      mini_heading: 统计数据
-      no_data: 当前时间段没有可用于分析的数据。
+      mini_heading: 🐒🐒🐒🐒🐒
+      no_data: 🐒🐒🐒🐒🐒
       posts_heading: '=> core.ref.posts'
-      previous_28_days_label: 更早二十八天
-      previous_7_days_label: 更早一周
-      previous_period: 上一周期
-      today_label: 今日
-      total_label: 累计
+      previous_28_days_label: 🐒🐒🐒🐒🐒
+      previous_7_days_label: 🐒🐒🐒🐒🐒
+      previous_period: 🐒🐒🐒🐒🐒
+      today_label: 🐒🐒🐒🐒🐒
+      total_label: 🐒🐒🐒🐒🐒
       users_heading: '=> core.ref.users'
-      view_full: 更多统计信息
+      view_full: 🐒🐒🐒🐒🐒

@@ -5,17 +5,17 @@
 flarum-lock:
   admin:
     permissions:
-      lock_discussions_label: 锁定主题
+      lock_discussions_label: 🐒🐒🐒🐒🐒
   forum:
     badge:
-      locked_tooltip: 锁定
+      locked_tooltip: 🐒🐒🐒🐒🐒
     discussion_controls:
-      lock_button: 锁定主题
-      unlock_button: 解锁主题
+      lock_button: 🐒🐒🐒🐒🐒
+      unlock_button: 🐒🐒🐒🐒🐒
     notifications:
-      discussion_locked_text: '{username} 锁定此帖'
+      discussion_locked_text: '{username} 🐒🐒🐒🐒🐒'
     post_stream:
-      discussion_locked_text: '{username} 于 {time} 锁定此帖'
-      discussion_unlocked_text: '{username} 于 {time} 解锁此帖'
+      discussion_locked_text: '{username} 🐒 {time} 🐒🐒🐒🐒🐒'
+      discussion_unlocked_text: '{username} 🐒 {time} 🐒🐒🐒🐒🐒'
     settings:
-      notify_discussion_locked_label: 我的主题帖被锁定
+      notify_discussion_locked_label: 🐒🐒🐒🐒🐒
