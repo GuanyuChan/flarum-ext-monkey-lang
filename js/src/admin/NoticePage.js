@@ -18,16 +18,14 @@ export default class NoticePage extends ExtensionPage {
         <div className="container Form">
           <div className="section Notice-Page">
             <div className="Form-group">
-              <label><i class="fas fa-info-circle"></i> 提示</label>
-              <p>您已开启中文语言包，如需使中文作为 Flarum 的默认语言，请前往<Link
+              <label><i class="fas fa-info-circle"></i> 🐒🐒🐒🐒🐒</label>
+              <p>🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒<Link
                 href={app.route('basics')}>「常规」</Link>页面设置。</p>
             </div>
             <div className="Form-group">
-              <label><i class="fas fa-language"></i> 贡献</label>
-              <p>如果您对翻译有更好的建议或纠错，欢迎到 <a
-                href="https://weblate.rob006.net/languages/zh_Hans/flarum/"
-                target="_blank">翻译平台 <i
-                class="fas fa-external-link-alt"></i></a> 提交您的宝贵意见。</p>
+              <label><i class="fas fa-language"></i> 🐒🐒🐒🐒🐒</label>
+              <p>🐒🐒🐒🐒🐒 <a
+                class="fas fa-external-link-alt"></i></a> 🐒🐒🐒🐒🐒</p>
             </div>
           </div>
           <hr/>
